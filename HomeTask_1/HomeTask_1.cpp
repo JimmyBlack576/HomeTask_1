@@ -10,7 +10,7 @@ int main()
     SetConsoleOutputCP(1251);
 
 
-    float distance, time, speed;
+    float distance, time;
     cout << "Введите расстояние (км): \n";
     cin >> distance;
     cout << "Введите время (мин): \n";
